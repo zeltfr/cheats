@@ -90,5 +90,10 @@ body{
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 
+body {
+    background-image: url('https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg');
+    color: #FFFFFF;
+}
+
 
 
